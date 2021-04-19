@@ -5,3 +5,11 @@ body {
     border-radius: 50%;
 
 }
+
+div {
+    display: inline-block;
+}
+
+h3 {
+    text-align: center;
+}
