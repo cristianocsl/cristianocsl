@@ -1,0 +1,190 @@
+body {
+  background-color: rgba(217, 220, 214, 1);
+  margin: 0;
+}
+
+#section-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: rgba(47, 102, 144, 1);
+  height: 100px;
+  box-shadow: 0 0 1em rgb(58 124 165);
+}
+
+#minha_foto {
+  border-radius: 50%;
+  margin-top: 10px;
+  width: 200px;
+  box-shadow: 0 0 1em rgb(58 124 165);;
+}
+
+#titulo {
+  color: rgb(253, 251, 251);
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+}
+
+main {
+  margin-top: 100px;
+  margin-bottom: 24px;
+  margin-left: 0;
+  padding: 15px;
+}
+
+#licoes_aprendidas {
+  display: inline-block;
+  font-size: 18pt;
+}
+
+#licoes_a_aprender {
+  display: inline-block;
+  font-size: 18pt;
+}
+
+#rodape {
+  position: absolute;
+  background-color: rgba(22, 66, 91, 1);
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: white;
+}
+
+a {
+  display: block;
+  margin-left: 50px;
+}
+
+.estilo_fonte {
+  text-align: justify;
+  font-size: 24px;
+  font-family: Times, serif, Geneva, Tahoma, sans-serif;
+  line-height: 48px;
+}
+
+.lado-direito {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  vertical-align: top;
+  margin: 0;
+  padding: 0;rgb(253, 251, 251)
+}
+
+#div-lado-direito {
+  display: flex;
+  flex-direction: column;
+  vertical-align: top;
+  margin: 0;
+  padding: 0;rgb(253, 251, 251)
+}
+
+.lado-esquerdo {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  width: 60%;
+}
+
+#div-lado-esquerdo {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 900;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-baqh {
+  text-align: center;
+  vertical-align: top;
+}
+
+.tg .tg-amwm {
+  font-weight: 900;
+  text-align: center;
+  vertical-align: top;
+}
+
+h3 {
+  font-size: xx-large;
+  text-align: center;
+}
+
+.estilo-nav {
+  display: flex;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px black;
+}
+
+@media screen and (min-width: 360px) and (max-width: 768px) {
+  .lado-direito {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;rgb(253, 251, 251)
+  }
+  
+  #div-lado-direito {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;rgb(253, 251, 251)
+  }
+  
+  .lado-esquerdo {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    width: 100%;
+  }
+  
+  #div-lado-esquerdo {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    width: 100%
+  }
+}
