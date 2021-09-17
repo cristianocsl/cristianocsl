@@ -19,6 +19,10 @@ Estou iniciando o módulo de **back-end** (setembro/2021) e já passei pelo mód
   * LinkedIn: https://www.linkedin.com/in/cristianoseabralima/
   * email: cslcristiano@gmail.com
 
+* Link para repositórios: em construção;
+* Link para Portfólio: em construção;
+* Link para Curriculum: em construção.
+
 * Ferramentas e linguagens:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
