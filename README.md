@@ -1,6 +1,7 @@
 ### Olá!
 
-Eu sou **Cristiano Lima**, moro em Rio Largo, Alagoas, e estou em transição de carreira. Sou formado em engenharia ambiental e sanitária e mestre em recursos hídricos.
+Eu sou **Cristiano Lima**, moro em Rio Largo, Alagoas, e estou em transição de carreira.
+Sou formado em engenharia ambiental e sanitária e mestre em recursos hídricos.
 
 > ## Atualmente sou estudante de *desenvolvimento de software* na **Trybe** e meu objetivo é ser um **Desenvolvedor Full Stack** :rocket:.
 
