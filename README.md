@@ -16,6 +16,7 @@ Estou iniciando o módulo de **back-end** (setembro/2021) e já passei pelo mód
   * 🎥 filmes e séries.
 * Contatos:
   * LinkedIn: https://www.linkedin.com/in/cristianoseabralima/
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" />
   * email: cslcristiano@gmail.com
 
 
