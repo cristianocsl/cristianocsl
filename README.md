@@ -14,6 +14,9 @@ Estou iniciando o módulo de **back-end** (setembro/2021) e já passei pelo mód
   * 📚 livros;
   * 🌳 pequenas frutíferas;
   * 🎥 filmes e séries.
+* Contatos:
+  * LinkedIn: https://www.linkedin.com/in/cristianoseabralima/
+  * email: cslcristiano@gmail.com
 
 
 
