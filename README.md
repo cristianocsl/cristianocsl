@@ -8,7 +8,11 @@ Sou formado em engenharia ambiental e sanitária e mestre em recursos hídricos.
 
 Estou iniciando o módulo de **back-end** (setembro/2021) e já passei pelo módulo de **front-end**.
 
-* Meus hobbies: música (tocar, cantar, escutar, estudar), caminhada, livros, cultivar plantas frutíferas.
+* Meus hobbies:
+  * 🎵 música (:guitar: tocar, :microphone: cantar, :musical_note: escutar, :musical_score: estudar);
+  * 🏃‍♂️ caminhada;
+  * 📚 livros;
+  * 🌳 pequenas frutíferas.
 
 
 
