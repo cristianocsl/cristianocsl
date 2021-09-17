@@ -1,6 +1,6 @@
-### Olá!
+### Olá! 🙋‍♂️ 😃 
 
-Eu sou **Cristiano Lima**, moro em Rio Largo, Alagoas, e estou em transição de carreira.
+Eu sou **Cristiano Lima** 🤝, moro em Rio Largo, Alagoas 🇧🇷, e estou em transição de carreira.
 
 Sou formado em engenharia ambiental e sanitária e mestre em recursos hídricos.
 
@@ -12,7 +12,8 @@ Estou iniciando o módulo de **back-end** (setembro/2021) e já passei pelo mód
   * 🎵 música (:guitar: tocar, :microphone: cantar, :musical_note: escutar, :musical_score: estudar);
   * 🏃‍♂️ caminhada;
   * 📚 livros;
-  * 🌳 pequenas frutíferas.
+  * 🌳 pequenas frutíferas;
+  * 🎥 filmes e séries.
 
 
 
