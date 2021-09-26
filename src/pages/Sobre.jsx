@@ -1,11 +1,9 @@
 import React from 'react';
 
-const Sobre = () => {
-  return (
-    <div>
-      PÁGINA SOBRE MIM
-    </div>
-  );
-}
+const Sobre = () => (
+  <div>
+    PÁGINA SOBRE MIM
+  </div>
+);
 
 export default Sobre;

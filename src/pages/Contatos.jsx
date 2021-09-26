@@ -1,11 +1,9 @@
 import React from 'react';
 
-const Contatos = () => {
-  return (
-    <div>
-      MEUS CONTATOS
-    </div>
-  );
-}
+const Contatos = () => (
+  <div>
+    MEUS CONTATOS
+  </div>
+);
 
 export default Contatos;
