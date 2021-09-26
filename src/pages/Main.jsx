@@ -12,15 +12,9 @@ const Main = () => (
     <WelcomeMsg />
     <div className="container">
       <div className="body-container">
-        {
-          content.map((text, ind) => (
-            <>
-              <ContentBody key={ ind }><h2>{ text.hi }</h2></ContentBody>
-              <ContentBody key={ ind }><h1>{ text.name }</h1></ContentBody>
-              <ContentBody key={ ind }><h2>{ text.student }</h2></ContentBody>
-            </>
-          ))
-        }
+        <ContentBody><h2>{ content.hi }</h2></ContentBody>
+        <ContentBody><h1>{ content.name }</h1></ContentBody>
+        <ContentBody><h2>{ content.student }</h2></ContentBody>
       </div>
       <img src={ dev3 } alt="logo" className="App-logo" />
     </div>
