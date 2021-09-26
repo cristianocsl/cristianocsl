@@ -5,7 +5,7 @@ import Main from './pages/Main';
 import Contacts from './pages/Contacts';
 import Projetos from './pages/Projetos';
 import Sobre from './pages/Sobre';
-import Navbar from './pages/Navbar';
+import Navbar from './components/NavBar/Navbar';
 
 const App = () => (
   <Router>
