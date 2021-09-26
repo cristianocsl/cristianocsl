@@ -1,59 +1,48 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './Navbar.css';
-import { NavLink } from 'react-router-dom';
+import MenuItems from './MenuItems';
 
-const Navbar = () => (
-  <nav className="navbar navbar-expand-lg navbar-mainbg">
-    <NavLink className="navbar-brand navbar-logo" to="/" exact>
-      Web Solutions
-    </NavLink>
-    <button
-      className="navbar-toggler"
-      type="button"
-      data-toggle="collapse"
-      data-target="navbarSupportedContent"
-      aria-controls="navbarSupportedContent"
-      aria-label="Toggler navigation"
-    >
-      <i className="fas fa-bars text-white" />
-    </button>
-    <div
-      className="collapse navbar-collapse"
-      id="navbarSupportedContent"
-    >
-      <ul className="navbar-nav ml-auto">
-        <div className="hori-selector">
-          <div className="left" />
-          <div className="rigth" />
+class Navbar extends Component {
+  constructor() {
+    super();
+    this.state = { clicked: false };
+    this.handleClick = this.handleClick.bind(this);
+  }
+
+  handleClick() {
+    const { clicked } = this.state;
+    this.setState({ clicked: !clicked });
+  }
+
+  render() {
+    const { clicked } = this.state;
+    return (
+      <nav className="NavbarItems">
+        <h1 className="navbar-logo">
+          <i className="fab fa-react" />
+
+        </h1>
+        <div
+          className="menu-icon"
+          onClick={ this.handleClick }
+          aria-hidden="true"
+        >
+          <i className={ clicked ? 'fas fa-times' : 'fas fa-bars' } />
         </div>
-
-        <li className="nav-item active">
-          <NavLink className="nav-link" to="/" exact>
-            Home
-          </NavLink>
-        </li>
-
-        <li className="nav-item">
-          <NavLink className="nav-link" to="/about" exact>
-            Sobre
-          </NavLink>
-        </li>
-
-        <li className="nav-item">
-          <NavLink className="nav-link" to="/project" exact>
-            Projetos
-          </NavLink>
-        </li>
-
-        <li className="nav-item">
-          <NavLink className="nav-link" to="/contact" exact>
-            Contatos
-          </NavLink>
-        </li>
-      </ul>
-    </div>
-
-  </nav>
-);
+        <ul className={ clicked ? 'nav-menu active' : 'nav-menu' }>
+          {
+            MenuItems.map((item, index) => (
+              <li key={ index }>
+                <a className={ item.cName } href={ item.url }>
+                  {item.title}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </nav>
+    );
+  }
+}
 
 export default Navbar;
