@@ -24,7 +24,6 @@ const WelcomeMsg = () => {
             .pauseFor(TIME_2)
             .deleteAll()
             .typeString(bemVindo)
-            .deleteAll()
             .start();
         } }
       />

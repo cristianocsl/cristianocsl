@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import './Navbar.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLaptopCode } from '@fortawesome/free-solid-svg-icons';
 import MenuItems from './MenuItems';
 
 class Navbar extends Component {
@@ -19,8 +21,7 @@ class Navbar extends Component {
     return (
       <nav className="NavbarItems">
         <h1 className="navbar-logo">
-          <i className="fab fa-react" />
-
+          <FontAwesomeIcon icon={ faLaptopCode } />
         </h1>
         <div
           className="menu-icon"
