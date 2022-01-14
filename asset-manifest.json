@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cristianocsl/static/css/main.48846344.chunk.css",
+    "main.js": "/cristianocsl/static/js/main.c74c5a5d.chunk.js",
+    "main.js.map": "/cristianocsl/static/js/main.c74c5a5d.chunk.js.map",
+    "runtime-main.js": "/cristianocsl/static/js/runtime-main.d824b0d4.js",
+    "runtime-main.js.map": "/cristianocsl/static/js/runtime-main.d824b0d4.js.map",
+    "static/css/2.f2512455.chunk.css": "/cristianocsl/static/css/2.f2512455.chunk.css",
+    "static/js/2.a80bd7fa.chunk.js": "/cristianocsl/static/js/2.a80bd7fa.chunk.js",
+    "static/js/2.a80bd7fa.chunk.js.map": "/cristianocsl/static/js/2.a80bd7fa.chunk.js.map",
+    "index.html": "/cristianocsl/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/cristianocsl/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.48846344.chunk.css.map": "/cristianocsl/static/css/main.48846344.chunk.css.map",
+    "static/js/2.a80bd7fa.chunk.js.LICENSE.txt": "/cristianocsl/static/js/2.a80bd7fa.chunk.js.LICENSE.txt",
+    "static/media/about_me.cdb63343.png": "/cristianocsl/static/media/about_me.cdb63343.png",
+    "static/media/dev3.4c13cec1.png": "/cristianocsl/static/media/dev3.4c13cec1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d824b0d4.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.a80bd7fa.chunk.js",
+    "static/css/main.48846344.chunk.css",
+    "static/js/main.c74c5a5d.chunk.js"
+  ]
+}
