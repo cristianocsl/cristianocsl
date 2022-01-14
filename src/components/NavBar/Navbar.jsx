@@ -1,8 +1,9 @@
-import React, { Component } from 'react';
-import './Navbar.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLaptopCode } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import MenuItems from './MenuItems';
+import './Navbar.css';
 
 class Navbar extends Component {
   constructor() {
@@ -34,9 +35,9 @@ class Navbar extends Component {
           {
             MenuItems.map((item, index) => (
               <li key={ index }>
-                <a className={ item.cName } href={ item.url }>
+                <Link className={ item.cName } to={ item.url }>
                   {item.title}
-                </a>
+                </Link>
               </li>
             ))
           }

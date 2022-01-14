@@ -1,8 +1,11 @@
 import React from 'react';
+import aboutMe from './about_me.png';
 
 const Sobre = () => (
   <div>
-    PÁGINA SOBRE MIM
+    <img src={ aboutMe } alt="logo" className="App-logo" />
+
+    EM CONSTRUÇÃO
   </div>
 );
 

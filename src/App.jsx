@@ -1,16 +1,16 @@
 import React from 'react';
-import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Main from './pages/Main';
+import './App.css';
+import Navbar from './components/NavBar/Navbar';
 import Contacts from './pages/Contacts';
+import Main from './pages/Main';
 import Projetos from './pages/Projetos';
 import Sobre from './pages/Sobre';
-import Navbar from './components/NavBar/Navbar';
 
 const App = () => (
   <Router>
-    <Navbar />
     <main>
+      <Navbar />
       <Switch>
         <Route exact path="/"><Main /></Route>
         <Route exact path="/contact"><Contacts /></Route>

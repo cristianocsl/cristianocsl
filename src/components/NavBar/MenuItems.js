@@ -1,22 +1,22 @@
 const MenuItems = [
   {
     title: 'Home',
-    url: '#',
+    url: '/',
     cName: 'nav-links',
   },
   {
     title: 'Sobre',
-    url: '#',
+    url: '/about',
     cName: 'nav-links',
   },
   {
     title: 'Contatos',
-    url: '#',
+    url: '/contact',
     cName: 'nav-links',
   },
   {
     title: 'Projetos',
-    url: '#',
+    url: '/project',
     cName: 'nav-links',
   },
 ];
