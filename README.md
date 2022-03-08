@@ -2,7 +2,7 @@
 Eu sou **Cristiano Lima** 🤝, moro em Rio Largo, Alagoas 🇧🇷, e estou em transição de carreira.
 Sou formado em engenharia ambiental e sanitária e mestre em recursos hídricos.
 > ### Atualmente sou estudante de *desenvolvimento de software web* na **Trybe** e meu objetivo é ser um **Desenvolvedor Full Stack** :rocket:.
-Estou iniciando o módulo de **back-end** (setembro/2021) e já passei pelo módulo de **front-end**.
+Estou iniciando o módulo de **ciência da computação** (fevereiro/2022) e já passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end** e **back-end**.
 * Meus hobbies:
   * 🎵 música (:guitar: tocar, :microphone: cantar, :musical_note: escutar, :musical_score: estudar);
   * 🏃‍♂️ caminhada;
@@ -25,11 +25,13 @@ Estou iniciando o módulo de **back-end** (setembro/2021) e já passei pelo mód
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=green)
+![Python](https://img.shields.io/badge/python-%2300f.svg?style=for-the-badge&logo=python&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%2300f.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <div align="center">
   <a href="https://github.com/cristianocsl">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianocsl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=yellow"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianocsl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocsl&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
