@@ -10,7 +10,7 @@ Passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end**, 
   * 🌳 pequenas frutíferas;
   * 🎥 filmes e séries.
 * Contatos:
-  * LinkedIn: https://www.linkedin.com/in/cristianoseabralima/
+  * LinkedIn: https://www.linkedin.com/in/cristianolimacsl/
   * email: cslcristiano@gmail.com
 * Link para repositórios: em construção;
 * Link para Portfólio: em construção;
