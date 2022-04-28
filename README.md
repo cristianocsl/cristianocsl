@@ -35,8 +35,8 @@ Passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end**, 
 
 <div align="center">
   <a href="https://github.com/cristianocsl">
-  <img height="180em" src="https://github-readme-stats-theta-nine-42.vercel.app/api?username=cristianocsl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-theta-nine-42.vercel.app/api/top-langs/?username=cristianocsl&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats-update-gamma.vercel.app/api?username=cristianocsl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-update-gamma.vercel.app/api/top-langs/?username=cristianocsl&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
  ![Snake animation](https://github.com/cristianocsl/cristianocsl/blob/output/github-contribution-grid-snake.svg)
