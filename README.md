@@ -30,7 +30,7 @@ Passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end**, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://skillicons.dev/icons?i=py&theme=dark)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![My Skills](https://skillicons.dev/icons?i=git,github,js,ts,py,html,css,materialui,react,redux,vue,nodejs,express,mongodb,mysql,heroku,jest&theme=dark) 
