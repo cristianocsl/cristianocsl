@@ -34,12 +34,12 @@ Passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end**, 
 ![mongodb](https://skillicons.dev/icons?i=mongodb&theme=dark)
 ![mysql](https://skillicons.dev/icons?i=mysql&theme=dark)
 ![heroku](https://skillicons.dev/icons?i=heroku&theme=dark)
+![jest](https://camo.githubusercontent.com/75141933826377b61cdf93bc3d9e757a5c46aeb2afff6f557c005edeedcad8d6/68747470733a2f2f75706c6f61642d69636f6e2e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f353839343331333933313534383231383138352d3531322e706e67)
+img[alt=jest] { width: 40px; }
 <img src="https://camo.githubusercontent.com/75141933826377b61cdf93bc3d9e757a5c46aeb2afff6f557c005edeedcad8d6/68747470733a2f2f75706c6f61642d69636f6e2e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f353839343331333933313534383231383138352d3531322e706e67" width="30" background="red"/>
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![My Skills](https://skillicons.dev/icons?i=git,github,js,ts,py,html,css,materialui,react,redux,vue,nodejs,express,mongodb,mysql,heroku,jest&theme=dark) 
-
 
 <div align="center">
   <a href="https://github.com/cristianocsl">
