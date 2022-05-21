@@ -33,7 +33,7 @@ Passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end**, 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![My Skills](https://skills.thijs.gg/icons?i=git,html,css,js,react,vue,nodejs,express,mongodb,atlas,mysql,python&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=git,html,css,js,react,vue,nodejs,express,mongodb,atlasdb,mysql,python&theme=dark)
 
 <div align="center">
   <a href="https://github.com/cristianocsl">
