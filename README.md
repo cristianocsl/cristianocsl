@@ -2,7 +2,7 @@
 Eu sou **Cristiano Lima** 🤝, moro em Rio Largo, Alagoas 🇧🇷, e estou em transição de carreira.
 Sou formado em engenharia ambiental e sanitária e mestre em recursos hídricos.
 > ### Recentemente (abril/2022) concluí o curso de *desenvolvimento de software web* na **Trybe** e meu objetivo é ser um **Desenvolvedor Full Stack** :rocket:.
-Passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end**, **back-end** e **ciência da computação**.
+Passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end**, **back-end** e **ciência da computação** (atualmente estou aprendendo C#).
 * Meus hobbies:
   * 🎵 música (:guitar: tocar, :microphone: cantar, :musical_note: escutar, :musical_score: estudar);
   * 🏃‍♂️ caminhada;
