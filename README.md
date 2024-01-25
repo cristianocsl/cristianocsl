@@ -1,8 +1,9 @@
 ### Olá! 🙋‍♂️ 😃 
-Eu sou **Cristiano Lima** 🤝, moro em Rio Largo, Alagoas 🇧🇷, e estou em transição de carreira.
+Eu sou **Cristiano Lima** 🤝, moro em Rio Largo, Alagoas 🇧🇷, realizei uma transição de carreira entre 2021 e 2022.
 Sou formado em engenharia ambiental e sanitária e mestre em recursos hídricos.
 > ### Concluí o curso de *desenvolvimento de software web* na **Trybe** (abril/2022) e meu objetivo é ser um **Desenvolvedor Full Stack** :rocket:.
 Passei pelos módulos de **fundamentos do desenvolvimento web**, **front-end**, **back-end** e **ciência da computação** (atualmente estou aprendendo C#).
+Trabalhei na empresa Blip entre agosto de 2022 e setembro de 2023 como chatbot developer, sendo a minha primeira atuação na área como desenvolvedor.
 * Meus hobbies:
   * 🎵 música (:guitar: tocar, :microphone: cantar, :musical_note: escutar, :musical_score: estudar);
   * 🏃‍♂️ caminhada;
